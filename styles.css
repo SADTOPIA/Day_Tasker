@@ -1,11 +1,13 @@
 .container {
     display: flex;
     justify-content: center;
-}
-.LBnt {
 
 }
-.nav-itemL{
+.LBnt {
     position: absolute;
     right: 50px;
+
+}
+.card{
+
 }
